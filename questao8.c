@@ -1,3 +1,8 @@
+/*
+	RAFAEL LUCAS GASPAR DA CRUZ-1615100348
+	PROGRAMA PARA IMPRIMIR NUMEROS PRIMOS DE 1 A N
+*/
+
 #include <stdio.h>
 int main (int argc, char **argv)
 {
